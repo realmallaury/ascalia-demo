@@ -1,0 +1,40 @@
+[
+    {
+        "Zaglavlje": [
+            {
+                "broj": 12,
+                "oznaka": "0442-178",
+                "sastavnica": "0001324232",
+                "datum": "02.01.2024",
+                "kupacID": 178,
+                "kupac": "quot;JUG",
+                "datumStampanja": "02.01.2024",
+                "planDatIsp": "05.01.2024",
+                "nacinIsporuke": "",
+                "kaljenje": false, referentID: 37, poslano: "04.01.24 08:09:36"
+            }
+        ]
+    },
+    {
+        "rowId": 1,
+        "artikId": 9823,
+        "code": "SA3T8ESG",
+        "artiklNaziv": "staklo 8mm satinato, brušeno, kaljeno",
+        "jedMjera": "m2",
+        "kolicina": 1.18,
+        "cijena": 653.07,
+        "izoStaklo": true,
+        "kaljenje": true,
+        "ploce": [
+            {
+                "id": 1,
+                "sirinaMM": 672,
+                "visinaMM": 1690,
+                "komada": 1,
+                "povrsinaM2": 1.18,
+                "opsegM": 44.72,
+                "napomena": "",
+            }
+        ]
+    }
+]

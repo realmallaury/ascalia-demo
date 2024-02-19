@@ -1,0 +1,52 @@
+[
+    {
+        "Zaglavlje": [
+            {
+                "broj": 11,
+                "oznaka": "02401-0",
+                "sastavnica": "00342311",
+                "datum": "02.01.2024",
+                "kupacID": 0,
+                "kupac": "MP kupac",
+                "datumStampanja": "02.01.2024",
+                "planDatIsp": "05.01.2024",
+                "nacinIsporuke": "",
+                "kaljenje": false, referentID: 72, poslano: "09.01.24 07:59:34"
+            }
+        ]
+    },
+    {
+        "rowId": 1,
+        "artikId": 183,
+        "code": "0107010003",
+        "artiklNaziv": "ogledalo   3 mm float",
+        "jedMjera": "m2",
+        "kolicina": 3.17,
+        "cijena": 192.34,
+        "izoStaklo": false,
+        "kaljenje": false,
+        "ploce": [
+            {
+                "id": 1,
+                "sirinaMM": 630,
+                "visinaMM": 2415,
+                "komada": 2,
+                "povrsinaM2": 3.17,
+                "opsegM": 12.18,
+                "napomena": "",
+            }
+        ]
+    },
+    {
+        "rowId": 2,
+        "artikId": 4298,
+        "code": "07020101",
+        "artiklNaziv": "usluga brušenja kp - ravne strane",
+        "jedMjera": "m",
+        "kolicina": 12.18,
+        "cijena": 10.81,
+        "izoStaklo": false,
+        "kaljenje": false,
+        "ploce": []
+    }
+]

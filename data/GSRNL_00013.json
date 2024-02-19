@@ -1,0 +1,52 @@
+[
+    {
+        "Zaglavlje": [
+            {
+                "broj": 13,
+                "oznaka": "02323-6881",
+                "sastavnica": "0001440013",
+                "datum": "02.01.2024",
+                "kupacID": 6881,
+                "kupac": "Jozo",
+                "datumStampanja": "02.01.2024",
+                "planDatIsp": "05.01.2024",
+                "nacinIsporuke": "",
+                "kaljenje": false, referentID: 67, poslano: "09.01.24 08:22:50"
+            }
+        ]
+    },
+    {
+        "rowId": 1,
+        "artikId": 13906,
+        "code": "LACT234264ESG",
+        "artiklNaziv": "x brušeno, kaljeno",
+        "jedMjera": "m2",
+        "kolicina": 1.27,
+        "cijena": 732.29,
+        "izoStaklo": true,
+        "kaljenje": true,
+        "ploce": [
+            {
+                "id": 1,
+                "sirinaMM": 1233,
+                "visinaMM": 631,
+                "komada": 1,
+                "povrsinaM2": 1.27,
+                "opsegM": 5.13,
+                "napomena": "",
+            }
+        ]
+    },
+    {
+        "rowId": 2,
+        "artikId": 507,
+        "code": "0402",
+        "artiklNaziv": "usluga ",
+        "jedMjera": "cm",
+        "kolicina": 1,
+        "cijena": 140,
+        "izoStaklo": false,
+        "kaljenje": false,
+        "ploce": []
+    }
+]
