@@ -5,7 +5,7 @@ import requests
 
 PROD_URL = ""
 PROD_TOKEN = ""
-DEV_URL = "https://app-dev.ascalia.io"
+DEV_URL = "https://app-dev.ascalia.io/api/v1/"
 DEV_TOKEN = "6a115b704d349c0075e41b4fb0d12b5368f79a44"
 
 
